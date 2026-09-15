@@ -47,6 +47,9 @@ Any provider works — set `BUDDY_MODEL` in `.env`:
 `anthropic:claude-sonnet-4-6`, `openai:gpt-5.5`, `google_genai:gemini-3.6-flash`,
 `ollama:...`. Defaults to Anthropic.
 
+### Troubleshooting
+Create a default workspace Anthropic API key and delete all active codespace workspaces
+
 ## Repo layout
 
 ```
